@@ -32,5 +32,3 @@ src/main/java/sv/edu/ues/ape115/
 
 1. Todo el código fuente y el `pom.xml` en este repositorio.
 2. Captura de pantalla de la aplicación corriendo en `docs/captura.png`.
-
-Consulta el enunciado completo en el aula virtual y la rúbrica en `docs/RUBRICA.md`.
